@@ -61,6 +61,12 @@
     margin-bottom: 20px;
 }
 
+.youtube_icon {
+    align-items: center;
+    display: flex;  
+    gap: 4px;
+}
+
 .chats_icon {
     color: red;
 }
