@@ -44,6 +44,6 @@ io.on("connection", (socket) => {
     })
 })
 
-server.listen("3002", () => {
-    console.log("running on 3002 port")
+server.listen("3000", () => {
+    console.log("running on 3000 port")
 })
